@@ -8,9 +8,8 @@
     `npm install`\
     `cd client`\
     `npm install`
-3. Create .env in root directory\
-    `cd ..`\
-    `touch .env`
+3. Open .env in root directory
+    
 4. Configure environment variables. To acquire your MONGO_URI, create a cluster for free over at https://www.mongodb.com/ \
     `MONGO_URI=<YOUR_MONGO_URI>`\
     `PORT=8080`
